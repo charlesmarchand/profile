@@ -135,11 +135,11 @@ table{
 
 #sidebar {
   position: fixed;
-  width: 150px;
+  width: 180px;
   left: 0;
   top: 0;
   bottom: 0;
-  background-color : 86BBD8;
+  background-color : 2F4858;
   text-align: center;
 }
 
@@ -167,5 +167,5 @@ table{
 }
 
 #page-content {
-  margin-left: 150px;
+  margin-left: 180px;
 }
